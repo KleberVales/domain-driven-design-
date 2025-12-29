@@ -7,7 +7,7 @@ The heart of software is its ability to solve domain-related problems for its us
 ```
 
 1. [Introduction](https://github.com/KleberVales/domain-driven-design-/wiki/01-Introduction)
-2. [Ubiquitous Language]()
+2. [Ubiquitous Language](https://github.com/KleberVales/domain-driven-design-/wiki/02-Ubiquitous-Language)
 3. [Domain Objects]()
 4. [Bounded Contexts]()
 5. [Anti-corruption layer]()
