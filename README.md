@@ -10,4 +10,4 @@ The heart of software is its ability to solve domain-related problems for its us
 2. [Ubiquitous Language]()
 3. [Domain Objects]()
 4. [Bounded Contexts]()
-5. []()
+5. [Anti-corruption layer]()
