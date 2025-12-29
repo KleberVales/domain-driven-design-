@@ -14,6 +14,8 @@ The heart of software is its ability to solve domain-related problems for its us
 
 ```text
 
-DDD is an approach to developing complex software systems in which: (1) the focus is on the system domain; (2) developers and business experts must explore this domain collaboratively; (3) as a result, they must communicate using a ubiquitous language, but within a bounded context.
+DDD is an approach to developing complex software systems in which: (1) the focus is on the system domain;
+(2) developers and business experts must explore this domain collaboratively; (3) as a result, they must
+communicate using a ubiquitous language, but within a bounded context.
 
 ```
