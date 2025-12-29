@@ -8,3 +8,6 @@ The heart of software is its ability to solve domain-related problems for its us
 
 1. [Introduction]()
 2. [Ubiquitous Language]()
+3. [Ubiquitous Language]()
+4. [Ubiquitous Language]()
+5. [Ubiquitous Language]()
